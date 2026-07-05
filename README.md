@@ -26,6 +26,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Структура репозитория
 
+```
 downloading_data/
 ├── 01_create_tables.sql        # создание схемы
 ├── 02_load_data.sql            # загрузка CSV
@@ -40,6 +41,8 @@ queries/        # аналитические запросы (1 файл = 1 во
 ├── q08_running_total.sql
 ├── q09_repeat_customers.sql
 └── q10_category_abc_analysis.sql
+
+```
 
 ## Ключевые выводы
 
